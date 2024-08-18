@@ -37,12 +37,7 @@ To run this application, you need Python installed on your system. You can downl
 
 1. **Run the Application:**
 
-   ```bash
-   python <filename>.py
-   ```
-
-   Replace `<filename>` with the name of the Python file containing the code.
-
+ 
 2. **Interacting with the Application:**
 
    - Enter the quantity of each snack item in the provided fields.
